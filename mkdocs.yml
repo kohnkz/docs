@@ -1,5 +1,5 @@
 site_name: obsidian-mkdocs template
-site_url: 'https://kohnkz.github.io/docs'
+site_url: 'https://kohnkz.github.io'
 theme:
     name: 'material'
     palette:
